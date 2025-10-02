@@ -1,0 +1,7 @@
+D:\CTDL-GT\CTDL&GT\Cau1\Buoi1\bin\Debug\Buoi1.exe.config
+D:\CTDL-GT\CTDL&GT\Cau1\Buoi1\bin\Debug\Buoi1.exe
+D:\CTDL-GT\CTDL&GT\Cau1\Buoi1\bin\Debug\Buoi1.pdb
+D:\CTDL-GT\CTDL&GT\Cau1\Buoi1\obj\Debug\Buoi1.csproj.AssemblyReference.cache
+D:\CTDL-GT\CTDL&GT\Cau1\Buoi1\obj\Debug\Buoi1.csproj.CoreCompileInputs.cache
+D:\CTDL-GT\CTDL&GT\Cau1\Buoi1\obj\Debug\Buoi1.exe
+D:\CTDL-GT\CTDL&GT\Cau1\Buoi1\obj\Debug\Buoi1.pdb
