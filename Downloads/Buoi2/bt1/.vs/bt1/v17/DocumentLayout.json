@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39B0B3-0C83-4A89-AD3B-4C4A8B17405E}|Cau2\\Cau2.csproj|c:\\users\\admin\\downloads\\bt1\\bt1\\cau2\\danhsachsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39B0B3-0C83-4A89-AD3B-4C4A8B17405E}|Cau2\\Cau2.csproj|solutionrelative:cau2\\danhsachsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39B0B3-0C83-4A89-AD3B-4C4A8B17405E}|Cau2\\Cau2.csproj|C:\\Users\\Admin\\Downloads\\bt1\\bt1\\cau2\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39B0B3-0C83-4A89-AD3B-4C4A8B17405E}|Cau2\\Cau2.csproj|solutionrelative:cau2\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC39B0B3-0C83-4A89-AD3B-4C4A8B17405E}|Cau2\\Cau2.csproj|C:\\Users\\Admin\\Downloads\\bt1\\bt1\\cau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC39B0B3-0C83-4A89-AD3B-4C4A8B17405E}|Cau2\\Cau2.csproj|solutionrelative:cau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972D77E4-8221-4943-8C7F-E21C6F2F156F}|24dh140619-Buoi2\\24dh140619-Buoi2.csproj|C:\\Users\\Admin\\Downloads\\bt1\\bt1\\24dh140619-buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972D77E4-8221-4943-8C7F-E21C6F2F156F}|24dh140619-Buoi2\\24dh140619-Buoi2.csproj|solutionrelative:24dh140619-buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972D77E4-8221-4943-8C7F-E21C6F2F156F}|24dh140619-Buoi2\\24dh140619-Buoi2.csproj|C:\\Users\\Admin\\Downloads\\bt1\\bt1\\24dh140619-buoi2\\mangsonguyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972D77E4-8221-4943-8C7F-E21C6F2F156F}|24dh140619-Buoi2\\24dh140619-Buoi2.csproj|solutionrelative:24dh140619-buoi2\\mangsonguyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\Cau2\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Cau2\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\Cau2\\SinhVien.cs",
+              "RelativeToolTip": "Cau2\\SinhVien.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:25:00.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\Cau2\\DanhSachSinhVien.cs",
+              "RelativeDocumentMoniker": "Cau2\\DanhSachSinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\Cau2\\DanhSachSinhVien.cs",
+              "RelativeToolTip": "Cau2\\DanhSachSinhVien.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:24:43.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\Cau2\\Program.cs",
+              "RelativeDocumentMoniker": "Cau2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\Cau2\\Program.cs",
+              "RelativeToolTip": "Cau2\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:22:56.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\24dh140619-Buoi2\\Program.cs",
+              "RelativeDocumentMoniker": "24dh140619-Buoi2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\24dh140619-Buoi2\\Program.cs",
+              "RelativeToolTip": "24dh140619-Buoi2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:08:06.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MangSoNguyen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\24dh140619-Buoi2\\MangSoNguyen.cs",
+              "RelativeDocumentMoniker": "24dh140619-Buoi2\\MangSoNguyen.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\bt1\\bt1\\24dh140619-Buoi2\\MangSoNguyen.cs",
+              "RelativeToolTip": "24dh140619-Buoi2\\MangSoNguyen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:07:24.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

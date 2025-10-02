@@ -1,0 +1,14 @@
+D:\Nguyễn Trọng Nguyễn - 24DH140619\bt1\24dh140619-Buoi2\bin\Debug\24dh140619-Buoi2.exe.config
+D:\Nguyễn Trọng Nguyễn - 24DH140619\bt1\24dh140619-Buoi2\bin\Debug\24dh140619-Buoi2.exe
+D:\Nguyễn Trọng Nguyễn - 24DH140619\bt1\24dh140619-Buoi2\bin\Debug\24dh140619-Buoi2.pdb
+D:\Nguyễn Trọng Nguyễn - 24DH140619\bt1\24dh140619-Buoi2\obj\Debug\24dh140619-Buoi2.csproj.AssemblyReference.cache
+D:\Nguyễn Trọng Nguyễn - 24DH140619\bt1\24dh140619-Buoi2\obj\Debug\24dh140619-Buoi2.csproj.CoreCompileInputs.cache
+D:\Nguyễn Trọng Nguyễn - 24DH140619\bt1\24dh140619-Buoi2\obj\Debug\24dh140619-Buoi2.exe
+D:\Nguyễn Trọng Nguyễn - 24DH140619\bt1\24dh140619-Buoi2\obj\Debug\24dh140619-Buoi2.pdb
+C:\Users\Admin\Downloads\bt1\bt1\24dh140619-Buoi2\bin\Debug\24dh140619-Buoi2.exe.config
+C:\Users\Admin\Downloads\bt1\bt1\24dh140619-Buoi2\bin\Debug\24dh140619-Buoi2.exe
+C:\Users\Admin\Downloads\bt1\bt1\24dh140619-Buoi2\bin\Debug\24dh140619-Buoi2.pdb
+C:\Users\Admin\Downloads\bt1\bt1\24dh140619-Buoi2\obj\Debug\24dh140619-Buoi2.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\bt1\bt1\24dh140619-Buoi2\obj\Debug\24dh140619-Buoi2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\bt1\bt1\24dh140619-Buoi2\obj\Debug\24dh140619-Buoi2.exe
+C:\Users\Admin\Downloads\bt1\bt1\24dh140619-Buoi2\obj\Debug\24dh140619-Buoi2.pdb
