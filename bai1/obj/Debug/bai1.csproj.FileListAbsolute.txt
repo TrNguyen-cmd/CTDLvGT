@@ -1,0 +1,15 @@
+D:\24dh140619_NguyenTrongNguyen\buoi3\bai1\bin\Debug\bai1.exe.config
+D:\24dh140619_NguyenTrongNguyen\buoi3\bai1\bin\Debug\bai1.exe
+D:\24dh140619_NguyenTrongNguyen\buoi3\bai1\bin\Debug\bai1.pdb
+D:\24dh140619_NguyenTrongNguyen\buoi3\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\24dh140619_NguyenTrongNguyen\buoi3\bai1\obj\Debug\bai1.csproj.SuggestedBindingRedirects.cache
+D:\24dh140619_NguyenTrongNguyen\buoi3\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\24dh140619_NguyenTrongNguyen\buoi3\bai1\obj\Debug\bai1.exe
+D:\24dh140619_NguyenTrongNguyen\buoi3\bai1\obj\Debug\bai1.pdb
+D:\CTDL-GT\buoi3\bai1\bin\Debug\bai1.exe.config
+D:\CTDL-GT\buoi3\bai1\bin\Debug\bai1.exe
+D:\CTDL-GT\buoi3\bai1\bin\Debug\bai1.pdb
+D:\CTDL-GT\buoi3\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\CTDL-GT\buoi3\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\CTDL-GT\buoi3\bai1\obj\Debug\bai1.exe
+D:\CTDL-GT\buoi3\bai1\obj\Debug\bai1.pdb
