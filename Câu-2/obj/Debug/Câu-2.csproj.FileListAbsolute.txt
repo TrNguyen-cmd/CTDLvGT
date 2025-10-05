@@ -1,7 +1,0 @@
-D:\CTDL-GT\buoi3\Câu-2\obj\Debug\Câu-2.csproj.AssemblyReference.cache
-D:\CTDL-GT\buoi3\Câu-2\obj\Debug\Câu-2.csproj.CoreCompileInputs.cache
-D:\CTDL-GT\buoi3\Câu-2\bin\Debug\Câu-2.exe.config
-D:\CTDL-GT\buoi3\Câu-2\bin\Debug\Câu-2.exe
-D:\CTDL-GT\buoi3\Câu-2\bin\Debug\Câu-2.pdb
-D:\CTDL-GT\buoi3\Câu-2\obj\Debug\Câu-2.exe
-D:\CTDL-GT\buoi3\Câu-2\obj\Debug\Câu-2.pdb
