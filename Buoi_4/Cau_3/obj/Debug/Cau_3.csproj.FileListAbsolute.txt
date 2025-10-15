@@ -1,0 +1,8 @@
+D:\24dh140619_NguyenTrongNguyen\Buoi_4\Cau_3\bin\Debug\Cau_3.exe.config
+D:\24dh140619_NguyenTrongNguyen\Buoi_4\Cau_3\bin\Debug\Cau_3.exe
+D:\24dh140619_NguyenTrongNguyen\Buoi_4\Cau_3\bin\Debug\Cau_3.pdb
+D:\24dh140619_NguyenTrongNguyen\Buoi_4\Cau_3\obj\Debug\Cau_3.csproj.AssemblyReference.cache
+D:\24dh140619_NguyenTrongNguyen\Buoi_4\Cau_3\obj\Debug\Cau_3.csproj.SuggestedBindingRedirects.cache
+D:\24dh140619_NguyenTrongNguyen\Buoi_4\Cau_3\obj\Debug\Cau_3.csproj.CoreCompileInputs.cache
+D:\24dh140619_NguyenTrongNguyen\Buoi_4\Cau_3\obj\Debug\Cau_3.exe
+D:\24dh140619_NguyenTrongNguyen\Buoi_4\Cau_3\obj\Debug\Cau_3.pdb
